@@ -1,1 +1,1 @@
-# Kelompok_2
+print(nama rido)
