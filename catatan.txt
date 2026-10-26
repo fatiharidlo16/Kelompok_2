@@ -1,0 +1,7 @@
+Nama: IHSAN MAUROBBI
+NRP: 3313251014
+
+Penjelasan Wilayah Kerja Git:
+1. Working Tree: Direktori/folder lokal di komputer tempat kita membuat, mengubah, dan bekerja dengan file-file kode proyek secara langsung.
+2. Staging Area: Tempat penampungan sementara bagi file yang telah dipilih (di-stage) untuk disiapkan sebelum disimpan secara permanen ke dalam commit.
+3. Repository: Tempat penyimpanan permanen dalam database Git yang mencatat seluruh riwayat revisi dan riwayat commit dari proyek.
